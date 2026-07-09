@@ -1,0 +1,15 @@
+{
+  "name": "도깨비불 홀리기",
+  "short_name": "도깨비불",
+  "description": "한국 민화 감성의 1분 타이밍 게임. 도깨비불이 달무리에 겹치는 찰나에 탭!",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10142a",
+  "theme_color": "#10142a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
