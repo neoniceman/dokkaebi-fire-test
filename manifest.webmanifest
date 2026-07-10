@@ -1,7 +1,10 @@
 {
+  "id": "./",
+  "lang": "ko",
   "name": "도깨비불 홀리기",
   "short_name": "도깨비불",
-  "description": "한국 민화 감성의 1분 타이밍 게임. 도깨비불이 달무리에 겹치는 찰나에 탭!",
+  "description": "한국 민화 감성의 1분 타이밍 게임. 도깨비불이 달무리에 겹치는 찰나에 탭! Tap when the dokkaebi fire meets the moon halo — a 1-minute Korean timing game.",
+  "categories": ["games"],
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
